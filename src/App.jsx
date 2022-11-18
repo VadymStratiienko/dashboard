@@ -1,8 +1,9 @@
 import './App.css';
+import Layout from './components/Layout'
 
 function App() {
   return (
-  <h1>sd</h1>
+  <Layout />
   );
 }
 

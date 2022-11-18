@@ -9,7 +9,7 @@ const Sidebar = () => {
       <div className="sidebar__top">
         <h2>
           <span>
-            <i class="ri-taxi-line"></i>{" "}
+            <i className="ri-taxi-line"></i>{" "}
           </span>
           Ubler
         </h2>
@@ -36,7 +36,7 @@ const Sidebar = () => {
         </div>
         <div className="sidebar__bottom">
           <span>
-            <i class="ri-logout-circle-r-line"></i>Logout
+            <i className="ri-logout-circle-r-line"></i>Logout
           </span>
         </div>
       </div>
